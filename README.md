@@ -5,3 +5,5 @@ Suggestcord is a bot that manages your server's suggestions offering features su
 Say ``-help`` to view a list of commands\
 Say ``-setup`` to set-up Suggestcord for your server
 
+* * *
+# Commands
