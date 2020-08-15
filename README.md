@@ -36,3 +36,7 @@ Say ``-setup`` to set-up Suggestcord for your server
 ``-info`` → Shows some information about Suggestcord.\
 ``-invite`` → Shows the link to invite the bot.\
 ``-ping`` → Returns the bot's latency.
+
+* * *
+
+![Suggestcord](https://imgur.com/a/pTXuUQ0.png)
