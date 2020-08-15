@@ -39,4 +39,4 @@ Say ``-setup`` to set-up Suggestcord for your server
 
 * * *
 
-![Suggestcord](https://imgur.com/a/pTXuUQ0.png)
+[![Suggestcord](https://imgur.com/a/pTXuUQ0.png)](www.google.com)
