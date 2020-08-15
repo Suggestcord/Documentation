@@ -21,7 +21,7 @@ Say ``-setup`` to set-up Suggestcord for your server
 
 * * *
 
-> # **Suggestions**
+> ## **Suggestions**
 
 ``-suggest`` → Post a suggestion to your server.\
 ``-approve`` → Approve a suggestion.\
@@ -29,7 +29,7 @@ Say ``-setup`` to set-up Suggestcord for your server
 
 * * *
 
-> # **Miscellaneous**
+> ## **Miscellaneous**
 
 ``-discord`` → Sends a discord invite link for the Suggestcord support server.\
 ``-help`` → View the command list, or get help on a certain command.\
