@@ -39,4 +39,6 @@ Say ``-setup`` to set-up Suggestcord for your server
 
 * * *
 
-[![Suggestcord](https://imgur.com/a/pTXuUQ0.png)](www.google.com)
+# Having issues?
+
+If you're encountering an issue you can ask for further help in our [Support Server](https://discord.gg/6MnZzkh)
