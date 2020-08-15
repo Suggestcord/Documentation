@@ -41,4 +41,4 @@ Say ``-setup`` to set-up Suggestcord for your server
 
 # Having issues?
 
-If you're encountering an issue you can ask for further help in our [Support Server](https://discord.gg/6MnZzkh)
+If you're encountering issues you can ask for further help in our [Support Server](https://discord.gg/6MnZzkh){:target="_blank"}
