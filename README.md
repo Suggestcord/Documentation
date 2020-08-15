@@ -10,7 +10,7 @@ Say ``-setup`` to set-up Suggestcord for your server
 
 * * *
 
-> # **Administration**
+> ## **Administration**
 
 ``-prefix`` → View your server prefix or change it.\
 ``-setup`` → Setup Suggestcord for your server.\
