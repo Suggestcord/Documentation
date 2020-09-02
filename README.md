@@ -26,6 +26,9 @@ Say ``-setup`` to set-up Suggestcord for your server
 ``-suggest`` → Post a suggestion to your server.\
 ``-approve`` → Approve a suggestion.\
 ``-reject`` → Reject a suggestion.
+`-blacklist list` → Shows a list of blacklisted users for your server.
+`-blacklist add` → Blacklist a user from posting suggestions.
+`-blacklist remove` → Remove a user from the suggestion blacklist.
 
 * * *
 
